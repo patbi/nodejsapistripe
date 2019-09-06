@@ -5,7 +5,7 @@
 
 ## Create account on stripe : https://stripe.com 
 
-## clone this Project and insert your keys values on STRIPE_PUBLISHABLE_KEY && STRIPE_SECRET_KEY
+>  clone this Project and insert your keys values on STRIPE_PUBLISHABLE_KEY && STRIPE_SECRET_KEY
 
 ## install packages with 
 
