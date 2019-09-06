@@ -1,0 +1,23 @@
+<section class="py-2">
+	<div class="row">
+		<div class="col-md-6 text-center">
+			<h1 class="display-3 mt-3 pt-5">
+			Web Development
+			</h1><p class="lead"> stripe api with nodejs</p>
+			<form action="/charge" method="POST">
+			  <script
+			    src="https://checkout.stripe.com/checkout.js"
+			    class="stripe-button"
+			    data-key="{{stripePublishableKey}}"
+			    data-name="Web Development Ebook"
+			    data-description="Ebook written by Patrick BIYAGA"
+			    data-amount="2500"
+			    data-currency="usd">
+			  </script>
+			</form>
+		</div>
+		<div class="col-md-6">
+			<img src="/img/book.png" alt="" class="img-fluid">
+		</div>
+	</div>
+</section>
