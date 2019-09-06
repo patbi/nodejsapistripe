@@ -1,4 +1,4 @@
  module.exports = {
- 	stripePublishableKey: 'pk_test_jFvRLgmjwRDjojhQWur8jQac',
- 	stripeSecretKey: 'sk_test_mzEblduzvyG4YSmvDbaBAJ2l'
+ 	stripePublishableKey: 'your_stripe_public_key',
+ 	stripeSecretKey: 'your_stripe_secret_key'
  }
